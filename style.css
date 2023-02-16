@@ -1,0 +1,74 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to left, #004b50, #017a76);
+  margin: 0;
+  padding: 5;
+  
+}
+
+form {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #e9fae7;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+label { /* This is the selection boxes margin */
+
+  margin-left: 10px;
+
+}
+
+select { /* This is the selection drop down box style */
+  width: 200px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  background-color: #dcf5f0;
+  color: black;
+
+}
+
+#result {
+  margin: auto;
+  margin-top: 80px;
+  padding: 10px;
+  background-color: #dcf5f0;
+  border: 1px solid #d6e9c6;
+  border-radius: 5px;
+  width: 50%;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+  text-align: justify;
+  font-face: "Frutiger Neue Pro";
+}
+
+#infopanel {
+  padding: 20px;
+  background-color: #dcf5f0;
+  font-face: "Open Sans";
+  margin: auto;
+
+}
+
+#container {
+margin: auto;
+width: 50%;
+background-color: white;
+height: 100%;
+
+
+}
+
+H2 {
+  color: #414042;
+  font-face: "Segoe UI";
+  font-size: 40px;
+  padding: 20px;
+
+}
+img {
+  padding: 20px;
+}
